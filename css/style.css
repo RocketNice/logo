@@ -1,0 +1,122 @@
+header {
+    display: flex;
+    background: #FFFFFF;
+    box-shadow: 0px 3px 17px rgba(0, 0, 0, 0.15);
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 41px;
+    padding-right: 41px;
+    height: 101px;
+}
+
+.logo {
+    margin-bottom: -14px;
+}
+
+.textmiddle {
+    bottom: 97.78%;
+    font-family: 'Circe', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    color: #E89B1B;
+    padding-left: 3px;
+}
+
+
+.textandhome {
+    display: flex;
+}
+
+.bookandlogo {
+    display: flex;
+}
+
+.texttwo {
+    font-family: 'Circe', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+    padding-left: 3px;
+}
+
+.gift {
+    font-family: 'Circe', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+    padding-left: 3px;
+}
+
+.joke {
+    font-family: 'Circe', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+    padding-left: 3px;
+}
+
+.question {
+    font-family: 'Circe', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+    padding-left: 3px;
+}
+
+.comeregistr {
+    display: flex;
+    padding: 6px;
+    font-family: 'Circe', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.tocomein {
+    padding: 10px;
+    border: 1px solid #88BC63;
+}
+
+.registr {
+    border: 1px solid #88BC63;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.registrchek {
+    font-family: 'Circe', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    background: #88BC63;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.jokeall {
+    display: flex;
+}
+
+.vopros {
+    display: flex;
+}
+
+.giftall {
+    display: flex;
+}
