@@ -13,64 +13,20 @@ header {
     margin-bottom: -14px;
 }
 
-.textmiddle {
+.item_text {
     bottom: 97.78%;
     font-family: 'Circe', sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 18px;
     line-height: 27px;
+    color: #000000;
+    padding-left: 3px;
+    transition: 0.3s;
+}
+
+.item_text:hover {
     color: #E89B1B;
-    padding-left: 3px;
-}
-
-
-.textandhome {
-    display: flex;
-}
-
-.bookandlogo {
-    display: flex;
-}
-
-.texttwo {
-    font-family: 'Circe', sans-serif;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 27px;
-    color: #000000;
-    padding-left: 3px;
-}
-
-.gift {
-    font-family: 'Circe', sans-serif;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 27px;
-    color: #000000;
-    padding-left: 3px;
-}
-
-.joke {
-    font-family: 'Circe', sans-serif;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 27px;
-    color: #000000;
-    padding-left: 3px;
-}
-
-.question {
-    font-family: 'Circe', sans-serif;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 27px;
-    color: #000000;
-    padding-left: 3px;
 }
 
 .comeregistr {
@@ -87,6 +43,7 @@ header {
 .tocomein {
     padding: 10px;
     border: 1px solid #88BC63;
+    border-radius: 5px 0px 0px 5px;
 }
 
 .registr {
@@ -94,6 +51,8 @@ header {
     padding-top: 10px;
     padding-left: 10px;
     padding-right: 10px;
+    border-left: none;
+    border-radius: 0px 5px 5px 0px;
 }
 
 .registrchek {
@@ -109,14 +68,10 @@ header {
     margin-left: 10px;
 }
 
-.jokeall {
+.menu_item {
     display: flex;
 }
 
-.vopros {
-    display: flex;
-}
-
-.giftall {
-    display: flex;
+a {
+    text-decoration: none !important;
 }
